@@ -1,6 +1,6 @@
 cask "cc-mac" do
-  version "0.2.0"
-  sha256 "93195592d294558b3815145cef97de28f926010255139bf4a4d44f6f22e4da47"
+  version "0.3.0"
+  sha256 "f94e16b0c5dd87d109c03aa675cafddfd0c30ee1bd1bda01b9a62b6ddaa530a7"
   url "https://github.com/LonerStayle/homebrew-cc-mac/releases/download/v#{version}/CCPendingMonitor-#{version}.zip"
   name "CCPendingMonitor"
   desc "여러 Claude Code 탭의 응답 대기 상황을 한눈에 보는 상황판"
